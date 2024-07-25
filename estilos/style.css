@@ -69,7 +69,7 @@ section.caixa{
 }
 
 #img{
-     background: url(../imagens/background001.jpg) center center/cover no-repeat;
+     background: url(../imagens/background001.jpg) center right/cover no-repeat;
      background-attachment: fixed;
 }
 
